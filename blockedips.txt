@@ -51,3 +51,6 @@
 64.176.170.43
 5.22.212.152
 108.181.20.35
+instantmessaging-pa.googleapis.com
+remotedesktop.google.com
+remotedesktop-pa.googleapis.com
